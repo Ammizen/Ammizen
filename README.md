@@ -1,12 +1,12 @@
-Hiya! My name is Ammizen, I'm an indie game designer, though wouldn't mind collaborating with other professionals.
+Hiya! My name is Ammizen, I'm an indie game designer, instrumentation technician, and freelance offensive security researcher.
 I'm currently working on a few different projects, so replies may be a little slow but feel free to reach out to me via any of the methods provided below!
 
-If you have any inquiries about my projects, please send an email to me rather than use one of the other methods.
-
-I specialize in c++, java, python, and GML (GameMaker Language), though I'm always learning new techniques, and looking to learn new languages.
+I specialize in c-like languages, though I'm always learning new techniques, and looking to learn new languages.
+I have experience in c/c++, c#/.NET, javascript, html/css/php, java, python, ASM-6502, GML (GameMaker Language), and more.
 
 You can reach me at any of the following accounts;
 
-**Email:** fuzzbutt@ammizen.dev
+**Email:** Ammizen@ammizen.dev
 **Discord:** Ammizen#1337
-**Skype:** fuzzbutt@ammizen.dev
+
+If you have any inquiries about my projects, please use my email rather than any of the other methods.
