@@ -1,4 +1,4 @@
-Hiya! My name is Ammizen, I'm an indie game designer, instrumentation technician, and freelance offensive security researcher.
+My name is Ammizen, I'm an indie game designer, instrumentation technician, and freelance offensive security researcher.
 I'm currently working on a few different projects, so replies may be a little slow but feel free to reach out to me via any of the methods provided below!
 
 I specialize in c-like languages, though I'm always learning new techniques, and looking to learn new languages.
